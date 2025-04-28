@@ -8,7 +8,7 @@
 - 🌱 Currently exploring and building with **OpenAI, LangChain, FastAPI, Streamlit, Hugging Face**, and **frontend frameworks**.
 - 🎯 My mission is to **provide real-world value** through technology — not just training models, but solving impactful problems.
 - 💬 Ask me about **AI, GenAI, Computer Vision, NLP, Frontend Development, and Chatbot Creation**.
-- 📫 Reach me at: **chaudhary_hadi27@gmail.com**
+- 📫 Reach me at: **chaudharyhadi27@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun Fact: **I believe that consistent small efforts create massive impacts!**
 
